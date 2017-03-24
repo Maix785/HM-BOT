@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-11112014-086148";"";
+"REFERENCE";"F623";"";
+"TraceParts.PartTitle";"Deep Groove Ball Bearings with opened flange";"";
+"TraceParts.InstanceId";"30-11112014-086148385Y1ZVL3G2WPP9DESB2ZLEJ1";"";
+"DESIGN";"Deep Groove Ball Bearings with opened flange";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"GRW";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"GRW:/F_GRW/GRW.010/30-11112014-086148";"";
